@@ -1,15 +1,1 @@
-# Hotel Booking Project
-
-Documentation and planning for hotel booking system implementation, inspired by the Wisconsin DNR state park camp reservation system.
-
-## Project Structure
-
-- `/docs/project-flow.md` - Visual project flow and phase descriptions
-  - Discovery Phase
-  - Planning
-  - Development
-  - Future Growth
-
-## Getting Started
-
-Check out our [Project Flow](docs/project-flow.md) documentation to understand the implementation phases.
+IyBIb3RlbCBCb29raW5nIFByb2plY3QKCkRvY3VtZW50YXRpb24gYW5kIHBsYW5uaW5nIGZvciBob3RlbCBib29raW5nIHN5c3RlbSBpbXBsZW1lbnRhdGlvbiwgaW5zcGlyZWQgYnkgdGhlIFdpc2NvbnNpbiBETlIgc3RhdGUgcGFyayBjYW1wIHJlc2VydmF0aW9uIHN5c3RlbS4KCiMjIFByb2plY3QgU3RydWN0dXJlCgotIGAvZG9jcy9wcm9qZWN0LWZsb3cubWRgIC0gVmlzdWFsIHByb2plY3QgZmxvdyBhbmQgcGhhc2UgZGVzY3JpcHRpb25zCiAgLSBEaXNjb3ZlcnkgUGhhc2UKICAtIFBsYW5uaW5nCiAgLSBEZXZlbG9wbWVudAogIC0gRnV0dXJlIEdyb3d0aAoKIyMgR2V0dGluZyBTdGFydGVkCgpDaGVjayBvdXQgb3VyIFtQcm9qZWN0IEZsb3ddKGRvY3MvcHJvamVjdC1mbG93Lm1kKSBkb2N1bWVudGF0aW9uIHRvIHVuZGVyc3RhbmQgdGhlIGltcGxlbWVudGF0aW9uIHBoYXNlcy4=
